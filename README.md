@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there this B Aashish 👋
+
+
+👀 I’m love .............  CyberSecurity and Ethical Hacking and loves to code in python.
+🌱 I’m interested in SOC and Security Analyst || Crypto and Blockchain.
+📫 I'm tring to doing bug bounty also.
+🔭 I’m currently working on httpAlive, JsScanner and pyPortScanner.
+⚡ Fun fact: I play CTFs also.
+📫 How to reach me: <a href="https://www.linkedin.com/in/bande-aashish/" >Aashish</a>
 
 <!--
 **aashish36/aashish36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
