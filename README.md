@@ -2,7 +2,7 @@
 
 <hr>
 
-<h5> 👀 I’m love .............  CyberSecurity and Ethical Hacking and loves to code in python.</h5>
+<h5> 👀 I love .............  CyberSecurity and Ethical Hacking and loves to code in python.</h5>
 <h5>🌱 I’m interested in SOC and Security Analyst || Crypto and Blockchain. </h5>
 <h5> 📫 I'm tring to doing bug bounty also.</h5>
 <h5>🔭 I’m currently working on httpAlive, JsScanner and pyPortScanner. </h5>
