@@ -1,9 +1,8 @@
 <h3>Hi I'm Aashish 👋</h3> 
-<br>
 <h5> 👀 I love .............  CyberSecurity and Ethical Hacking and loves to code in python.</h5>
 <h5>🌱 I’m interested in SOC and Security Analyst || Crypto and Blockchain. </h5>
 <h5> 📫 I'm tring to find bugs.</h5>
-<h5>🔭 I’m currently working on Web, Review and Image Scrapper with python. </h5>
+<h5>🔭 I’m currently working on Web Scrapper, Review Scrapper and Image Scrapper with python. </h5>
 <h5>⚡ Fun fact: I play CTFs tooo. </h5>
 <h5> 📫 How to reach me: <a href="https://www.linkedin.com/in/bande-aashish/" >AashishSec</a></h5>
 
