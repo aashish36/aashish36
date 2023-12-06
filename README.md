@@ -14,6 +14,12 @@
 <h5>⚡ Fun fact: I play CTFs to. </h5>
 <h5> 📫 How to reach me: <a href="https://www.linkedin.com/in/bande-aashish/" >AashishSec</a></h5>
 
+## Skills and Experience
+
+### Programming Languages
+### Frontend Development
+### Backend Development
+## Databases and Tools
 
 
 <!--
