@@ -1,7 +1,7 @@
 ## Hello there 👋
 <p align="center">
 </p>
-
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=aashishsec alt=acidReign/> 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </p>
 
