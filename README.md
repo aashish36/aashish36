@@ -6,7 +6,7 @@
 </p>
 
 
-<h3>I'm Aashish, Your next door security researcher! 👋</h3> 
+<h3>I'm Aashish, Security researcher! 👋</h3> 
 <h5> 👀 I love .............  CyberSecurity and Ethical Hacking and loves to code in python.</h5>
 <h5>🌱 I’m interested in SOC and Security Analyst || Crypto and Blockchain. </h5>
 <h5> 📫 I'm tring to find bugs.</h5>
