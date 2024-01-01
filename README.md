@@ -1,36 +1,46 @@
-## Hello there 👋
-<p align="center">
-</p>
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=aashishsec alt=acidReign/> 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-</p>
+# AashishSec - Security Researcher
 
-## I'm Aashish, Security researcher! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=aashishsec)
 
-- 👀 I love .............  CyberSecurity and Ethical Hacking and loves to code in python.
-- 🌱 I’m interested in SOC and Security Analyst || Crypto and Blockchain.
-- 📫 I'm tring to find bugs.
-- 🔭 I’m currently working on Web Scrapper, Review Scrapper and Image Scrapper with python.
-- ⚡ Fun fact: I play CTFs to.
-<h5> 📫 How to reach me: <a href="https://www.linkedin.com/in/bande-aashish/" >AashishSec</a></h5>
+## 👋 Hello, I'm Aashish, a Security Researcher!
 
+- 👀 I love CyberSecurity and Ethical Hacking and enjoy coding in Python.
+- 🌱 I’m interested in SOC and Security Analyst, Crypto and Blockchain.
+- 📫 I'm trying to find bugs.
+- 🔭 I’m currently working on Web Scraper, Review Scraper, and Image Scraper with Python.
+- ⚡ Fun fact: I play CTFs too.
+
+## 📫 How to reach me: [AashishSec](https://www.linkedin.com/in/bande-aashish/)
 
 ## Skills and Experience
 
+### CyberSecurity
+
 ### Programming Languages
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishsec&theme=radical&layout=compact" alt="Aashishsec's Gihtub Status" />
-<p align="left"> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
 
 ### Frontend Development
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a>  </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a>  </a> </p>
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 
-<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=aashishsec&show_icons=true&theme=radical" alt="aashishsec github stats" />
 
 ### Backend Development
 
+<!-- Add relevant content here -->
+
 ### Databases and Tools
 
+<!-- Add relevant content here -->
 
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishsec&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishsec&layout=compact&theme=radical)
+
+---
