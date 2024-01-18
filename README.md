@@ -1,4 +1,4 @@
-ss# AashishSec - Security Researcher
+# AashishSec - Security Researcher
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aashishsec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aashishsec/)
 
