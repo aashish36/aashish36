@@ -1,6 +1,7 @@
-# AashishSec - Security Researcher
+ss# AashishSec - Security Researcher
 
-![Profile Views](https://komarev.com/ghpvc/?username=aashishsec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aashishsec/) [![Medium](https://img.shields.io/badge/Medium)](https://medium.com/@aashishsec)
+![Profile Views](https://komarev.com/ghpvc/?username=aashishsec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aashishsec/)
+
 
 ## 👋 Hello, I'm Aashish, a Security Researcher!
 
