@@ -15,6 +15,9 @@
 
 ## Skills and Experience
 
+### Cloud
+- AWS
+
 ### CyberSecurity
 
 - OSINT
