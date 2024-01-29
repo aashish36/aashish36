@@ -19,8 +19,10 @@
 
 - OSINT
 - Linux
-- Web and Network Security
-- SOC
+- Web Security
+- API Security
+- Network Security
+- S.O.C
 - Malware Analysis
 - Reverse Engineering
 
